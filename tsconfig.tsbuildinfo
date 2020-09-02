@@ -1,0 +1,230 @@
+{
+  "program": {
+    "fileInfos": {
+      "./node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
+        "signature": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "signature": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "./src/components/base-component.ts": {
+        "version": "d2840f8ebe20bdffa54a9f91df85a53e9eeb25814a38a9ceaaf1963068b4d0ba",
+        "signature": "3a97af1f57a1a61b5ab2b413f67311ff59e18fd017a15adb1e0bb4ad52d133d1",
+        "affectsGlobalScope": false
+      },
+      "./src/util/validation.ts": {
+        "version": "ae151aed9e565c16f094343735c7e1f523ecf38e6253fa5c0c735e2244c5bacf",
+        "signature": "bdbc25e6dcf38fd26a5daca36856ce3f5c81defb20d8c0ba4a5d887cba295962",
+        "affectsGlobalScope": false
+      },
+      "./src/decorators/autobine.ts": {
+        "version": "2be360bb34d2662c3316184be2ae2f1e29be6fd431ea211adc4972c8290612c3",
+        "signature": "9ad65a0de8e68777c0371b98c77e64bd9c4663f8534019a27d260e0a27ea81ff",
+        "affectsGlobalScope": false
+      },
+      "./src/models/project.ts": {
+        "version": "7cb77d19de2d8d5710eb052fffe0394becc18441439ba8e170f1e1bc5cff31a5",
+        "signature": "dae168e6c5518f36da9f6b578518150aa58b0ecdea2f4ee512e2bbf47ce798e6",
+        "affectsGlobalScope": false
+      },
+      "./src/state/project-state.ts": {
+        "version": "3f1472fc2a7ebd0701bfaa2babcd8774cb341c894c313b8808934e0446585810",
+        "signature": "96597619ee00a92802c25a6ac2fb07e0c21c6f34ee61eb9b142b8e544f76e9c5",
+        "affectsGlobalScope": false
+      },
+      "./src/components/project-input.ts": {
+        "version": "969e53d0630ab87b0ef40a2f41d35b08e9436c05c33da86ddccc174fa44f192b",
+        "signature": "26abe6757aee60e3000b36b31a1ef6663c656cec74ad4818f5b719333c7af337",
+        "affectsGlobalScope": false
+      },
+      "./src/models/drag-drop.ts": {
+        "version": "a58296ae9ef09f48946981c59b6baa8ecdfe62ed3bc149ae0d012c3f6aa78146",
+        "signature": "66a595aa6983bd576aab480342c30756a83c3fb78f86d8e5f1f31623a5cd8b3d",
+        "affectsGlobalScope": false
+      },
+      "./src/components/project-item.ts": {
+        "version": "3c5344d69749d38fa2edab4ed71d13c1b11ded6f86ac66db40467c4990473d18",
+        "signature": "f1bbf596464ef0eeec7a6e9eec55f29d0548cbdfaf662fdd9f080e72a4d99a86",
+        "affectsGlobalScope": false
+      },
+      "./src/components/project-list.ts": {
+        "version": "ef63b4cb72df7ceb587f94aeb751e90402e561f92d203b82df564864e29a2370",
+        "signature": "86fc40524976bd7d06d1cd36cac86b24f9ae132e0f9f869d1470c1243e60c06b",
+        "affectsGlobalScope": false
+      },
+      "./src/app.ts": {
+        "version": "6916005b90e0080debfbd2c74b3a87ef2753946f2ae2e919917b2f5f9298663c",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/color-name/index.d.ts": {
+        "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "target": 2,
+      "module": 1,
+      "lib": [
+        "lib.dom.d.ts",
+        "lib.es2015.d.ts",
+        "lib.dom.iterable.d.ts",
+        "lib.scripthost.d.ts"
+      ],
+      "sourceMap": true,
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "composite": true,
+      "removeComments": true,
+      "noEmitOnError": true,
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "watch": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "./src/app.ts": [
+        "./src/components/project-input.ts",
+        "./src/components/project-list.ts"
+      ],
+      "./src/components/project-input.ts": [
+        "./src/components/base-component.ts",
+        "./src/decorators/autobine.ts",
+        "./src/state/project-state.ts",
+        "./src/util/validation.ts"
+      ],
+      "./src/components/project-item.ts": [
+        "./src/components/base-component.ts",
+        "./src/decorators/autobine.ts",
+        "./src/models/drag-drop.ts",
+        "./src/models/project.ts"
+      ],
+      "./src/components/project-list.ts": [
+        "./src/components/base-component.ts",
+        "./src/components/project-item.ts",
+        "./src/decorators/autobine.ts",
+        "./src/models/drag-drop.ts",
+        "./src/models/project.ts",
+        "./src/state/project-state.ts"
+      ],
+      "./src/state/project-state.ts": [
+        "./src/models/project.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./src/components/project-input.ts": [
+        "./src/components/base-component.ts"
+      ],
+      "./src/components/project-item.ts": [
+        "./src/components/base-component.ts",
+        "./src/models/drag-drop.ts",
+        "./src/models/project.ts"
+      ],
+      "./src/components/project-list.ts": [
+        "./src/components/base-component.ts",
+        "./src/models/drag-drop.ts",
+        "./src/models/project.ts"
+      ],
+      "./src/state/project-state.ts": [
+        "./src/models/project.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "./node_modules/@types/color-name/index.d.ts",
+      "./node_modules/typescript/lib/lib.dom.d.ts",
+      "./node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "./node_modules/typescript/lib/lib.es5.d.ts",
+      "./node_modules/typescript/lib/lib.scripthost.d.ts",
+      "./src/app.ts",
+      "./src/components/base-component.ts",
+      "./src/components/project-input.ts",
+      "./src/components/project-item.ts",
+      "./src/components/project-list.ts",
+      "./src/decorators/autobine.ts",
+      "./src/models/drag-drop.ts",
+      "./src/models/project.ts",
+      "./src/state/project-state.ts",
+      "./src/util/validation.ts"
+    ]
+  },
+  "version": "3.9.7"
+}

@@ -1,4 +1,4 @@
-# TODOlistTypeScript
+## TODOlistTypeScript
 pet project on Type script
 
-link: https://manzyuklyuda.github.io/TODOlistTypeScript/index.html
+Link to [live demo](https://manzyuklyuda.github.io/TODOlist_ts/)
